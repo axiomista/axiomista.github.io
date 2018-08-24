@@ -2,6 +2,7 @@
 ### hosted by [GitHub Pages](https://pages.github.com/)...
 #### and built with [Hugo](https://gohugo.io/)
 this repo is a personal and professional work-in-progress.
+it exists live at [axiomista.com](https://www.axiomista.com/)
 
 ##### TODO:
 - [ ] move logo to left nav
